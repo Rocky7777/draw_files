@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:53:26.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="DhPASOwGoRqrgfqdHzZM" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T06:56:05.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BAFniF4tLqgS0RzPgjVv" version="14.6.10" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2380" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2380" dy="2496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="1265" y="1070" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1079" value="显示账号的预约信息 但是只能显示一台机器" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1280" width="380" height="60" as="geometry" />
+          <mxGeometry x="778" y="1280" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1081" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeWidth=6;strokeColor=#5C87FF;" vertex="1" parent="1">
           <mxGeometry x="1516.5" y="1485" width="70" height="70" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1160" y="1490" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1083" value="点击可以登录管理员系统" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1490" width="270" height="60" as="geometry" />
+          <mxGeometry x="888" y="1485" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1085" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" target="hC_3RKOWs0tdmVnxcOdR-1079">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,10 +84,10 @@
           <mxGeometry x="1160" y="950" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1091" value="&lt;font color=&quot;#ffffff&quot;&gt;如果已经预约 则可以直接延迟，但必须从上次延迟结束的那一天开始延迟 （页面会提示预约到期日期）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeWidth=6;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="950" width="548" height="60" as="geometry" />
+          <mxGeometry x="612" y="950" width="548" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1092" value="输入对方的工号，则对方就能与你一起共用一台测试机器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontColor=#ffffff;strokeColor=none;fillColor=#4960D6;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1110" width="451.5" height="60" as="geometry" />
+          <mxGeometry x="706.5" y="1109" width="451.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hC_3RKOWs0tdmVnxcOdR-1093" value="结束预约会 则当天的预约也会释放出来" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="830" y="1030" width="328" height="60" as="geometry" />
