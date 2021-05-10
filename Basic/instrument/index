@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T08:45:32.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Xa3jPxX5hHCOBoaDlzfI" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T03:16:57.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="_KrOYfxxT0FfWm3V_qiI" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -36,7 +36,7 @@
         <mxCell id="tNXv0IY0EC5Vq60yuEOy-3" value="比较现在的时间与结束时间的大小" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4d5IMc2A6OD9P_HIsqwr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tNXv0IY0EC5Vq60yuEOy-6" target="4d5IMc2A6OD9P_HIsqwr-0">
+        <mxCell id="4d5IMc2A6OD9P_HIsqwr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tNXv0IY0EC5Vq60yuEOy-6" target="4d5IMc2A6OD9P_HIsqwr-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tNXv0IY0EC5Vq60yuEOy-6" value="&lt;span&gt;将值清空 改变person、order赋值给list&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -96,8 +96,47 @@
             <mxPoint x="320" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4d5IMc2A6OD9P_HIsqwr-0" value="赋值给list （app.globaldata.XX为null)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4d5IMc2A6OD9P_HIsqwr-0" value="赋值给list （app.globaldata.XX为null)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="410" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zR_8SuSy6y-olHvc4jRO-0" target="zR_8SuSy6y-olHvc4jRO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-0" value="多台仪器预约" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="222.5" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zR_8SuSy6y-olHvc4jRO-1" target="zR_8SuSy6y-olHvc4jRO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-1" value="返回的数据信息展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="208.75" y="1240" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-2" value="app.globaldata数据在提醒时传参" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1270" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482.5" y="1270" as="sourcePoint" />
+            <mxPoint x="482.5" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zR_8SuSy6y-olHvc4jRO-5" target="zR_8SuSy6y-olHvc4jRO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-5" value="返回给list，根据list数组做前端显示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="142.5" y="1330" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zR_8SuSy6y-olHvc4jRO-7" target="zR_8SuSy6y-olHvc4jRO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-7" value="判断flag" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="242.5" y="1420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-8" value="根据flag的数据传值给app.globaldata&lt;br&gt;再根据app.globaldat的数据延迟/结束/授权" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="1530" width="325" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zR_8SuSy6y-olHvc4jRO-14" value="怎么根据不同的list动态生成flag增加的页面" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="1230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
